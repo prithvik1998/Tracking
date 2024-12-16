@@ -190,23 +190,9 @@ The set of hyperparameters leading to the best HOTA result are written to the tr
 </details>
 
 
-## Custom tracking examples
 
-<div align="center">
 
-| Example Description | Notebook |
-|---------------------|----------|
-| Torchvision bounding box tracking with BoxMOT | [![Notebook](https://img.shields.io/badge/Notebook-torchvision_det_boxmot.ipynb-blue)](examples/det/torchvision_boxmot.ipynb) |
-| Torchvision pose tracking with BoxMOT | [![Notebook](https://img.shields.io/badge/Notebook-torchvision_pose_boxmot.ipynb-blue)](examples/pose/torchvision_boxmot.ipynb) |
-| Torchvision segmentation tracking with BoxMOT | [![Notebook](https://img.shields.io/badge/Notebook-torchvision_seg_boxmot.ipynb-blue)](examples/seg/torchvision_boxmot.ipynb) |
 
-</div>
-
-## Contributors
-
-<a href="https://github.com/mikel-brostrom/yolo_tracking/graphs/contributors ">
-  <img src="https://contrib.rocks/image?repo=mikel-brostrom/yolo_tracking" />
-</a>
 
 ## Contact
 
